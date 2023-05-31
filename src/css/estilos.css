@@ -115,7 +115,7 @@ ul li a{
     height: 250px;
     top: 250px;
     bottom: 70px;
-    left: 90rem;
+    left: 50rem;
     padding: 1.5rem;
     background: hsl(0, 0%, 100%);
     color:hsl(0, 0%, 55%);
@@ -150,6 +150,7 @@ ul li a{
 
 .card-1{
     background: url('../images/desktop/image-deep-earth.jpg');
+    background-size: contain;
     width: 300px;
     height: 390px;
     display: flex;
@@ -161,6 +162,7 @@ ul li a{
 
 .card-2{
     background: url("../images/desktop/image-night-arcade.jpg");
+    background-size: contain;
     width: 300px;
     height: 390px;
     display: flex;
@@ -172,8 +174,9 @@ ul li a{
 
 .card-3{
     background: url("../images/desktop/image-soccer-team.jpg");
-    width: 210px;
-    height: 370px;
+    background-size: contain;
+    width: 300px;
+    height: 390px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -183,8 +186,9 @@ ul li a{
 
 .card-4{
     background: url("../images/desktop/image-grid.jpg");
-    width: 210px;
-    height: 370px;
+    background-size: contain;
+    width: 300px;
+    height: 390px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -206,8 +210,9 @@ ul li a{
 
 .card-5{
     background: url("../images/desktop/image-from-above.jpg");
-    width: 210px;
-    height: 370px;
+    background-size: contain;
+    width: 300px;
+    height: 390px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -217,8 +222,9 @@ ul li a{
 
 .card-6{
     background: url('../images/desktop/image-pocket-borealis.jpg');
-    width: 210px;
-    height: 370px;
+    background-size: contain;
+    width: 300px;
+    height: 390px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -228,8 +234,9 @@ ul li a{
 
 .card-7{
     background: url('../images/desktop/image-curiosity.jpg');
-    width: 210px;
-    height: 370px;
+    background-size: contain;
+    width: 300px;
+    height: 390px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -239,8 +246,9 @@ ul li a{
 
 .card-8{
     background: url('../images/desktop/image-fisheye.jpg');
-    width: 210px;
-    height: 370px;
+    background-size: contain;
+    width: 300px;
+    height: 390px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
