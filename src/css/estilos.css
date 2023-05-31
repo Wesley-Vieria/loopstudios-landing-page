@@ -115,7 +115,7 @@ ul li a{
     height: 250px;
     top: 250px;
     bottom: 70px;
-    left: 50rem;
+    left: 60rem;
     padding: 1.5rem;
     background: hsl(0, 0%, 100%);
     color:hsl(0, 0%, 55%);
@@ -149,7 +149,7 @@ ul li a{
 }
 
 .card-1{
-    background: url('../images/desktop/image-deep-earth.jpg');
+    background: url('../images/desktop/image-deep-earth.jpg') no-repeat;
     background-size: contain;
     width: 300px;
     height: 390px;
@@ -161,7 +161,7 @@ ul li a{
 }
 
 .card-2{
-    background: url("../images/desktop/image-night-arcade.jpg");
+    background: url("../images/desktop/image-night-arcade.jpg") no-repeat;
     background-size: contain;
     width: 300px;
     height: 390px;
@@ -173,7 +173,7 @@ ul li a{
 }
 
 .card-3{
-    background: url("../images/desktop/image-soccer-team.jpg");
+    background: url("../images/desktop/image-soccer-team.jpg") no-repeat;
     background-size: contain;
     width: 300px;
     height: 390px;
@@ -185,7 +185,7 @@ ul li a{
 }
 
 .card-4{
-    background: url("../images/desktop/image-grid.jpg");
+    background: url("../images/desktop/image-grid.jpg") no-repeat;
     background-size: contain;
     width: 300px;
     height: 390px;
@@ -209,7 +209,7 @@ ul li a{
 }
 
 .card-5{
-    background: url("../images/desktop/image-from-above.jpg");
+    background: url("../images/desktop/image-from-above.jpg") no-repeat;
     background-size: contain;
     width: 300px;
     height: 390px;
@@ -221,7 +221,7 @@ ul li a{
 }
 
 .card-6{
-    background: url('../images/desktop/image-pocket-borealis.jpg');
+    background: url('../images/desktop/image-pocket-borealis.jpg') no-repeat;
     background-size: contain;
     width: 300px;
     height: 390px;
@@ -233,7 +233,7 @@ ul li a{
 }
 
 .card-7{
-    background: url('../images/desktop/image-curiosity.jpg');
+    background: url('../images/desktop/image-curiosity.jpg') no-repeat;
     background-size: contain;
     width: 300px;
     height: 390px;
@@ -245,7 +245,7 @@ ul li a{
 }
 
 .card-8{
-    background: url('../images/desktop/image-fisheye.jpg');
+    background: url('../images/desktop/image-fisheye.jpg') no-repeat;
     background-size: contain;
     width: 300px;
     height: 390px;
