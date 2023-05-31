@@ -306,19 +306,66 @@
 
 /* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */
 
-@media only screen and (min-width: 1200px) {
 
-    .logo{
+@media only screen and (max-width: 1200px) {
+
+    .background{
+
+       background-image: url("../images/desktop/image-hero.jpg");
+
+       width: 100vh;
+
+    }
+
+    
+
+    .titulo{
+
+        font-size: 25px;
+
+    }
+
+    
+
+    .infomacoes{
+
+        left: 40rem;
+
+    }
+
+    
+
+    .conteiner-card-1{
+
+        display: flex;
+
+        align-items: center;
+
+        justify-content: space-around;
+
+    }
+
+    
+
+    .conteiner-card-2{
+
+        display: flex;
+
+        align-items: center;
+
+        justify-content: space-around;
+
+    }
+
+    footer{
 
         
+
+        width: 100vw;
 
     }
 
 }
 
     
-    
 
-    
-
-   
