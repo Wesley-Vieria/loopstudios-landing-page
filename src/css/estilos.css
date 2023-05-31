@@ -115,7 +115,7 @@ ul li a{
     height: 250px;
     top: 250px;
     bottom: 70px;
-    left: 40rem;
+    left: 90rem;
     padding: 1.5rem;
     background: hsl(0, 0%, 100%);
     color:hsl(0, 0%, 55%);
@@ -150,8 +150,8 @@ ul li a{
 
 .card-1{
     background: url('../images/desktop/image-deep-earth.jpg');
-    width: 210px;
-    height: 370px;
+    width: 300px;
+    height: 390px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -161,8 +161,8 @@ ul li a{
 
 .card-2{
     background: url("../images/desktop/image-night-arcade.jpg");
-    width: 210px;
-    height: 370px;
+    width: 300px;
+    height: 390px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
