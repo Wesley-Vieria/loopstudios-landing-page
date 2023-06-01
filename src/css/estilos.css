@@ -309,7 +309,7 @@ foiter ul img{
 
 .inferior nav a::after{
     content: "";
-    width: 1%;
+    width: 0%;
     height: 3px;
     position: absolute;
     background-color: hsl(0, 0%, 41%);
@@ -320,4 +320,8 @@ foiter ul img{
 
 .inferior nav a:hover::after{
     width: 100%;
+}
+
+*{
+    border: red solid 2px;
 }
