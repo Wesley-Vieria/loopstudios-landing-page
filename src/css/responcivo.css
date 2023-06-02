@@ -164,6 +164,52 @@
     .container{
         width: 100%;
     }
+    
+    .background{
+
+        width: 100%;
+
+    }
+
+    
+
+    .section-vr{
+
+        width: 100%;
+
+    }
+
+    
+
+    .nossas-criacoes{
+
+        width: 100%;
+
+    }
+
+    
+
+    .conteiner-card-1{
+
+        width: 100%;
+
+    }
+
+    
+
+    .conteiner-card-2{
+
+        width: 100%;
+
+    }
+
+    
+
+    footer{
+
+        width: 100%;
+
+    }
 }
 
 /* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */
