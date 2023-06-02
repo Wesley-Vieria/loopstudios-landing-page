@@ -157,7 +157,10 @@
 /*Dispostivos Médios (Tablets deitados, 768px para cima) */
 @media only screen and (max-width: 768px) {
     .infomacoes{
-         position: static;
+        position: static;
+        top: 0px;
+        bottom: 0px;
+        left: 0rem;
      }
 }
 
@@ -165,6 +168,7 @@
 @media only screen and (max-width: 940px) {
     .infomacoes{
         left: 35rem;
+        
     }
 }
 
