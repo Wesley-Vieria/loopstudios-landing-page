@@ -162,12 +162,12 @@
 /* Dispostivos Largos (laptops/desktops, 940px para cima) */
 @media only screen and (max-width: 940px) {
     .container{
-        width: 100%;
+        width: 100vw;
     }
     
     .background{
 
-        width: 100%;
+        width: 100vw;
 
     }
 
@@ -175,7 +175,7 @@
 
     .section-vr{
 
-        width: 100%;
+        width: 100vw;
 
     }
 
@@ -183,7 +183,7 @@
 
     .nossas-criacoes{
 
-        width: 100%;
+        width: 100vw;
 
     }
 
@@ -191,7 +191,7 @@
 
     .conteiner-card-1{
 
-        width: 100%;
+        width: 100vw;
 
     }
 
@@ -199,7 +199,7 @@
 
     .conteiner-card-2{
 
-        width: 100%;
+        width: 100vw;
 
     }
 
@@ -207,7 +207,7 @@
 
     footer{
 
-        width: 100%;
+        width: 100vw;
 
     }
 }
