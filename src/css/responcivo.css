@@ -161,8 +161,8 @@
 
 /* Dispostivos Largos (laptops/desktops, 940px para cima) */
 @media only screen and (max-width: 940px) {
-    .section-vr{
-        max-width: 940px;
+    .infomacoes{
+        left: 35rem;
     }
 }
 
