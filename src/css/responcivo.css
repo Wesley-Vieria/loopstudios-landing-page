@@ -155,8 +155,10 @@
 }
 
 /*Dispostivos Médios (Tablets deitados, 768px para cima) */
-@media only screen and (min-width: 768px) {
-    
+@media only screen and (max-width: 768px) {
+    .infomacoes{
+         position: static;
+     }
 }
 
 /* Dispostivos Largos (laptops/desktops, 940px para cima) */
