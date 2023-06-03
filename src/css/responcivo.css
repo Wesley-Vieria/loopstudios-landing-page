@@ -178,8 +178,9 @@
     .img{
 
         background-size: 100%;
+        background-size: contain;
 
-        width: 350px;
+        width: 375px;
 
         height: 140px;
 
