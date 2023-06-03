@@ -52,11 +52,9 @@
     .infomacoes{
         flex-direction: column;
         text-align: center;
-        position: relative;
+        
         position: static;
-        top: 0px;
-        bottom: 0px;
-        left: 0rem;
+        
     }
     
     .conteiner-card-1{
@@ -172,12 +170,9 @@
     .infomacoes{
         flex-direction: column;
         text-align: center;
-        position: relative;
-        position: static;
-        top: 0px;
-        bottom: 0px;
-        left: 0rem;
 
+        position: static;
+        
      }
     
     .img{
@@ -266,10 +261,22 @@
 
 /* Dispostivos Largos (laptops/desktops, 940px para cima) */
 @media only screen and (max-width: 940px) {
+   
     .infomacoes{
-        left: 25rem;
+
+        flex-direction: column;
+
+        text-align: center;
+
+
+
+        position: static;
+
+
+
+     }
         
-    }
+
 }
 
 /* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */
