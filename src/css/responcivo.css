@@ -263,6 +263,14 @@
 /* Dispostivos Largos (laptops/desktops, 940px para cima) */
 @media only screen and (max-width: 940px) {
    
+    .section-vr{
+
+        flex-direction: column;
+
+    }
+    
+    
+    
     .infomacoes{
 
         flex-direction: column;
@@ -272,10 +280,7 @@
 
 
         position: static;
-        top: 0px;
-        bottom: 0px;
-        left: 0rem;
-
+       
 
      }
         
