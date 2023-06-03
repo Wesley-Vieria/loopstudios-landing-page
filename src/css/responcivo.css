@@ -156,7 +156,14 @@
 
 /*Dispostivos Médios (Tablets deitados, 768px para cima) */
 @media only screen and (max-width: 768px) {
-   .section-vr{
+ 
+    header ul{
+
+      display: none;
+
+  }
+    
+    .section-vr{
 
         flex-direction: column;
 
