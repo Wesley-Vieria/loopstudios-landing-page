@@ -272,7 +272,9 @@
 
 
         position: static;
-
+        top: 0px;
+        bottom: 0px;
+        left: 0rem;
 
 
      }
