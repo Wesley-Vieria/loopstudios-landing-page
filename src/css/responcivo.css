@@ -204,6 +204,64 @@
     .conteiner-card-2{
         flex-direction: column;
     }
+    
+    footer{
+
+        height: 100%;
+
+        flex-direction: column;
+
+    }
+
+    footer ul{
+
+        gap:2rem;
+
+    }
+
+    
+
+    .superior{
+
+        flex-direction: column;
+
+        padding: 4rem;
+
+    }
+
+    .inferior{
+
+        flex-direction: column;
+
+    }
+
+    
+
+    .inferior ul{
+
+        flex-direction: column;
+
+        font-size: 18px;
+
+    }
+
+    
+
+    .logo2 img{
+
+        width: 190px;
+
+        margin-bottom: 1.5rem;
+
+    }
+
+    
+
+    .inferior p{
+
+        margin-top: 2.5rem;
+
+    }
 }
 
 /* Dispostivos Largos (laptops/desktops, 940px para cima) */
