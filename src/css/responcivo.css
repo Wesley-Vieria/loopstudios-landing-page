@@ -197,12 +197,19 @@
         border-radius: 3px;
 
     }
+    
+    .conteiner-card-1{
+        flex-direction: column;
+    }
+    .conteiner-card-2{
+        flex-direction: column;
+    }
 }
 
 /* Dispostivos Largos (laptops/desktops, 940px para cima) */
 @media only screen and (max-width: 940px) {
     .infomacoes{
-        left: 35rem;
+        left: 30rem;
         
     }
 }
