@@ -178,9 +178,9 @@
     .img{
 
         background-size: 100%;
-        background-size: contain;
 
-        width: 375px;
+
+        width: 360px;
 
         height: 140px;
 
@@ -284,6 +284,10 @@
 
      }
         
+    .img{
+        width: 230px;
+        height: 370px;
+     }
 
 }
 
