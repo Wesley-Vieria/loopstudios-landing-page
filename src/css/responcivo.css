@@ -175,39 +175,16 @@
         
      }
     
-    .img{
-
-        background-size: 100%;
-
-
-        width: 80%;
-
-        height: 120px;
-
-        justify-content: flex-start;
-
-        align-items: center;
-
-        margin-top: 1.5rem;
-
-        border-radius: 3px;
-
-    }
-    
     .conteiner-card-1{
 
         flex-direction: column;
 
-        width: 100%;
 
     }
 
     .conteiner-card-2{
 
         flex-direction: column;
-
-        width: 100%;
-
     }
     
     footer{
