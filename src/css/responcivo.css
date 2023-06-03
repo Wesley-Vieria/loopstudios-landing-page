@@ -172,6 +172,24 @@
         left: 0rem;
 
      }
+    
+    .img{
+
+        background-size: 100%;
+
+        width: 350px;
+
+        height: 140px;
+
+        justify-content: flex-start;
+
+        align-items: center;
+
+        margin-top: 1.5rem;
+
+        border-radius: 3px;
+
+    }
 }
 
 /* Dispostivos Largos (laptops/desktops, 940px para cima) */
