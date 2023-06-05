@@ -286,7 +286,11 @@ footer{
     justify-content: space-around;
     align-items: center;
     padding: 1rem;
-    gap; 5px;
+    gap: 5px;
+}
+
+.superior ul a:hover{
+    opacity: 50%;
 }
 
 footer ul{
